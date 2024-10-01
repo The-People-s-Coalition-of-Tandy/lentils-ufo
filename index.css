@@ -227,7 +227,7 @@ main::before{
 }
 
 .lyric-sheet {
-    max-width: 100%;
+    max-width: 80%;
     width: fit-content;
     padding: 20px;
     margin: 0 auto;
